@@ -11,12 +11,16 @@ This is a tabletop game inspired by the video game series "The Binding of Isaac"
  - Much of the materials can be acquired from hobby shops or re-used from other games
  - No human opponent or "DM" required, all level design and enemy behavior is generated on-the-fly by random card draw or die roll, with clearly defined rules
  - Collectible "items" impact game experience heavily, and allow player(s) to radically alter their game experience, and also introduce an element of strategy
+
 ## Player motivation
 The game can be played in a few different ways. It can be played cooperatively to see who lives the longest, or solo with a pre-set goal, or simply played infinitely to see how far the player(s) can get.
+
 ## Genre
 Roguelike, with macabre, occult, and Judaeo-Christian themes
+
 ## Unique selling points
 Infinite replayability, high degree of strategy
+
 ## Target hardware
 Card and board
 
@@ -24,6 +28,7 @@ Card and board
  - Fast-paced frantic gameplay: rules are simple, and use card draw from pre-shuffled decks wherever possible (versus dice roll which tends to be slower)
  - Standard roguelike experience: game can be played theoretically infinitely and each "run" is unique
  - Highly diverse strategy introduced by character selection and item collection
+
 ## Characters
  - Enemies: too many to list here, but mostly the same and details don't matter: enemies the player characters fight while searching for the trapdoor to the next floor
  - Bosses: Last enemies the players fight before the next floor is unlocked, typically a longer and harder fight than non-boss enemies
