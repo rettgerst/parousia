@@ -8,6 +8,7 @@
  - Many unique collectible items which drastically affect gameplay
  - Many unique characters with unique abilities
  - Play alone or cooperatively without the need of a "DM"
+
 ## Game Overview
 
 ### High Concept
