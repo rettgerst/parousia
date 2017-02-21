@@ -126,6 +126,12 @@ At the end of every combat phase, drop a random pickup and add 1 to every player
 
 If a player takes red heart damage during a non-boss fight, increment their devil die by 1 (but only once per fight). If a player takes red heart damage during a boss fight, increment their devil die by 2 (but only once per fight). When a player advances to the next floor, halve their devil die if they didn't make a devil deal on that floor.
 
+### Bombs
+
+Bombs can also be used to do extra damage. During a turn, players can drop any number of bombs as they like. Bombs explode on that player's next turn. Roll a die for each bomb. If the die meets or exceeds the enemy's resilience or evasiveness, the bomb hits (and does the player's base damage to a boss). The bomb also does a hit of damage to every player whose speed is below (20-die).
+
+During a non-boss combat phase players can use a bomb to quit the combat phase immediately. However, this does not count as finishing the combat phase. This does not have any chance of doing damage to enemies, but has normal chances of damaging players.
+
 # Glossary
 
 **Random:** From the top of the corresponding deck
