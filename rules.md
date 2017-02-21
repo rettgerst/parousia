@@ -129,5 +129,7 @@ If a player takes red heart damage during a non-boss fight, increment their devi
 # Glossary
 
 **Random:** From the top of the corresponding deck
+
 **Chance:** if a rule shows (x/D20) chance that means roll a D20 and the effect is applied if the die roll meets or is less than x. If this is followed by "else" this works like a cascading series of if/else statements applied to the same die roll.
+
 **Fight:** shorthand for "combat phase"
