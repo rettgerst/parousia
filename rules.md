@@ -54,7 +54,7 @@ Each tarot card is a playable card which has a specific effect when played:
  - IV (The Emperor): skip directly to the boss room and immediately start the combat phase
  - V (The Heirophant): drops 2 soul hearts on the floor
  - VI (The Lovers): drops 2 red hearts on the floor
- - VII (The Chariot): for 6 turns, the character cannot shoot, has +2 speed, cannot shoot, deals contact damage to enemies, and is invulerable
+ - VII (The Chariot): for 6 turns, the character cannot shoot, has +2 speed, deals contact damage to enemies, and is invulerable
  - VIII (Justice): drops one of each basic pickup (red heart, coin, key, bomb)
  - IX (The Hermit): Takes the player directly to the shop
  - X (Wheel of Fortune): card is moved to the floor and represents a slot machine which has a 10/20 chance to drop a random pickup from the floor
