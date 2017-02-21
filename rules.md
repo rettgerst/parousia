@@ -122,7 +122,7 @@ On enemy turns, enemies automatically target the player character with the lowes
 
 Bosses are slightly different from non-boss enemies in that they have HP, and have an _evasiveness_ stat instead of _resilience_ which is typically lower but otherwise functions the same. Players deal damage equal to their _damage_ stat to bosses when their damage + D20 meets or exceeds the boss's _evasiveness_, and can hit bosses multiple times in a turn.
 
-At the end of every combat phase, drop a random pickup.
+At the end of every combat phase, drop a random pickup and add 1 to every player's activated item charge.
 
 If a player takes red heart damage during a non-boss fight, increment their devil die by 1 (but only once per fight). If a player takes red heart damage during a boss fight, increment their devil die by 2 (but only once per fight). When a player advances to the next floor, halve their devil die if they didn't make a devil deal on that floor.
 
