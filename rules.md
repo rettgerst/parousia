@@ -3,7 +3,7 @@
 ## Characters (and character sheets)
 The _character sheet_ is a sheet that contains all of the relevant information about your character, as well as marked areas to place cards. It is technically optional but it helps a lot.
 
-Character sheets will contain a number of hexagons in different places with numbers inside of them. The outline of a D20 forms a hexagon when viewed face-on, so the hexagons on the character sheets indicate that you should place a D20 there should you wish to track stats and pickups with D20s. You can count these using other means, like pencil and paper or computer/phone software, but regardless, all counters max out at 20, except for red hearts which max out at the current value of the _red heart container_ counter, and the _activated item charge_, which will be noted on its card. The number inside the hexagon is the number the counter should start at, aka the "base stat".
+Character sheets will contain a number of hexagons in different places with numbers inside of them. The outline of a D20 forms a hexagon when viewed face-on, so the hexagons on the character sheets indicate that you should place a D20 there should you wish to track stats and pickups with D20s. You can count these using other means, like pencil and paper or computer/phone software, but regardless, all counters max out at 20, except for coints, red hearts which max out at the current value of the _red heart container_ counter, and the _activated item charge_, which will be noted on its card. The number inside the hexagon is the number the counter should start at, aka the "base stat".
 
 These are all of the counters:
  - Pickups:
@@ -20,7 +20,7 @@ These are all of the counters:
 	- Activated item charge
 	- Devil die
 
-*During cooperative play, coins are shared among all players. Therefore if players wish to track their stats with D20s, you will need 9 D20s each, plus one for the shared coin counter.
+*During cooperative play, coins are shared among all players. Therefore if players wish to track their stats with D20s, you will need 9 D20s each, plus a few more for the shared coin counter.
 
 ## Decks
 
