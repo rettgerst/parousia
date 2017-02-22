@@ -48,7 +48,7 @@ If the player cannot or does not wish to take the pickups produced by these card
 
 Each tarot card is a playable card which has a specific effect when played:
 
- - I (The Magician): ???
+ - I (The Magician): piercing for the current fight
  - II (The High Priestess): Deals 10 damage to the enemy with the highest HP in the room.
  - III (The Empress): Triggers the effect of the Whore of Babylon (+2 damage for the rest of the combat phase)
  - IV (The Emperor): skip directly to the boss room and immediately start the combat phase
